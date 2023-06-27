@@ -20,4 +20,7 @@
    - it will be connected and will work on the presentation
    - in normal mode alt+click
      
-- 
+- We can adjust the size of the filter/chart in the dashboard while it has been placed in the container
+   - Select container > Distribute Content Evenly
+
+
